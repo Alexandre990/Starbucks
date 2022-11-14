@@ -13,7 +13,7 @@ Evento exclusivo e gratuito, promovido pelo Rodolfo Mori para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="notebook" src="colocar foto" width="100%">
+  <img alt="notebook" src="https://github.com/Alexandre990/Starbucks/blob/master/assets/Notebooks.jpg?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
